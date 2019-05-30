@@ -11,4 +11,8 @@ int i=0;
 	break;
 }
 }
+<<<<<<< HEAD
+//master
+=======
 //version2.1
+>>>>>>> version2
