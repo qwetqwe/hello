@@ -5,6 +5,20 @@ hello,3
 hello,4
 hello,5
 hello,6
+<<<<<<< HEAD
+=======
+hello,7
+hello,8
+hello,9
+hello,10
+hello,11
+hello,12
+hello,13
+hello,14
+hello,15
+hello,16
+hello,17
+>>>>>>> 27141a44dc6a09e8a5cd52186f172820d0f75179
 hello,18
 hello,19
 hello,20
@@ -12,6 +26,12 @@ hello,21
 hello,22
 hello,23
 hello,24
+<<<<<<< HEAD
+=======
+hello,25
+hello,26
+hello,27
+>>>>>>> 27141a44dc6a09e8a5cd52186f172820d0f75179
 hello,28
 hello,29
 hello,30
@@ -20,7 +40,11 @@ hello,32
 hello,33
 hello,34
 hello,35
+<<<<<<< HEAD
 asdasdccv
+=======
+hello,36
+>>>>>>> 27141a44dc6a09e8a5cd52186f172820d0f75179
 hello,37
 hello,38
 hello,39
@@ -28,7 +52,11 @@ hello,40
 hello,41
 hello,42
 hello,43
+<<<<<<< HEAD
 ffds
+=======
+hello,44
+>>>>>>> 27141a44dc6a09e8a5cd52186f172820d0f75179
 hello,45
 hello,46
 hello,47
@@ -34019,4 +34047,8 @@ hello,34031
 hello,34032
 hello,34033
 hello,34034
+<<<<<<< HEAD
 he
+=======
+he
+>>>>>>> 27141a44dc6a09e8a5cd52186f172820d0f75179
